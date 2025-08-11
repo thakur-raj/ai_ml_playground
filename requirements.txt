@@ -5,6 +5,7 @@ lxml
 html5lib
 openpyxl
 matplotlib
+seaborn
 
 # source .venv/bin/activate
 # pip install -r requirements.txt 
