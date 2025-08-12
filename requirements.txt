@@ -6,6 +6,7 @@ html5lib
 openpyxl
 matplotlib
 seaborn
+sqlite3
 
 # source .venv/bin/activate
 # pip install -r requirements.txt 
