@@ -1,0 +1,5 @@
+2025-08-12 20:17:54,079 - ArithmeticApp DEBUG - Addition of 2 and 3 is 5
+2025-08-12 20:17:54,080 - ArithmeticApp DEBUG - Subtraction of 5 and 3 is 2
+2025-08-12 20:17:54,080 - ArithmeticApp DEBUG - Multiplication of 4 and 6 is 24
+2025-08-12 20:17:54,080 - ArithmeticApp DEBUG - Division of 10 and 2 is 5.0
+2025-08-12 20:17:54,080 - ArithmeticApp ERROR - Cannot divide by zero
